@@ -45,6 +45,5 @@ model invokes Domino's [DataCaptureClient](https://docs.dominodatalab.com/en/lat
 ### III. Capture ground truth labels for Model Quality monitoring
 
 
-(7) Schedule drift data checks.
 
 
